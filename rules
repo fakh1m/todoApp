@@ -1,0 +1,9 @@
+go-todo-app/
+│
+├── main.go
+├── handler/
+│   └── todo.go
+├── model/
+│   └── todo.go
+└── database/
+    └── db.go
